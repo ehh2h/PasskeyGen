@@ -1,8 +1,3 @@
-PasskeyGen
-==========
-
-Small program to generate a strong password, written in C++
-
 Welcome to Passkey generator this program will guide you to make a strong password.
 
 Instruction:
